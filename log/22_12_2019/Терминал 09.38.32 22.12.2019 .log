@@ -1,0 +1,47 @@
+Чтение графика опроса счетчиков
+
+CA E0 EB FE EC ED FB 20 
+
+00 00 09 00 FF 0F 00 F2 C1   // передача: 9 байт; 09:38:30:005 22.12.2019
+// приём по количеству байт: 55 из 55
+// принято с порта: 55 байт
+
+01 00 37 00 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF CD A1   // прием: 55 байт; 09:38:30:088 22.12.2019
+// таймаут: 83 мсек
+
+Чтение графика опроса счетчиков: 25 %
+
+CA E0 EB FE EC ED FB 20 
+
+00 00 09 00 FF 0F 01 33 01   // передача: 9 байт; 09:38:30:090 22.12.2019
+// приём по количеству байт: 55 из 55
+// принято с порта: 55 байт
+
+01 00 37 00 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF CD A1   // прием: 55 байт; 09:38:30:173 22.12.2019
+// таймаут: 83 мсек
+
+Чтение графика опроса счетчиков: 50 %
+
+CA E0 EB FE EC ED FB 20 
+
+00 00 09 00 FF 0F 02 73 00   // передача: 9 байт; 09:38:30:175 22.12.2019
+// приём по количеству байт: 55 из 55
+// принято с порта: 55 байт
+
+01 00 37 00 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF CD A1   // прием: 55 байт; 09:38:30:258 22.12.2019
+// таймаут: 83 мсек
+
+Чтение графика опроса счетчиков: 75 %
+
+CA E0 EB FE EC ED FB 20 
+
+00 00 09 00 FF 0F 03 B2 C0   // передача: 9 байт; 09:38:30:260 22.12.2019
+// приём по количеству байт: 55 из 55
+// принято с порта: 55 байт
+
+01 00 37 00 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF CD A1   // прием: 55 байт; 09:38:30:343 22.12.2019
+// таймаут: 83 мсек
+
+Чтение графика опроса счетчиков: 100 %
+
+// О программе

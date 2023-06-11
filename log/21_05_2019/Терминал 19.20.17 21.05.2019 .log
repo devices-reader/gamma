@@ -1,0 +1,44 @@
+OnTapiStatus event
+событие: Dialing... 029-190-59-08
+OnTapiStatus event
+событие: Proceeding... 029-190-59-08
+OnTapiStatus event
+Last event
+OnTapiPortOpen event
+OnTapiConnect event
+установлено соединение на скорости 9600
+
+CA E0 EB FE EC ED FB 20 
+
+00 00 07 00 F7 D4 47   // передача: 7 байт; 19:19:47:805 21.05.2019
+
+CA E0 EB FE EC ED FB 20 
+
+00 00 08 00 F6 0C 45 DE   // передача: 8 байт; 19:19:48:678 21.05.2019
+
+
+
+1B EE   // передача: 2 байт; 19:19:53:405 21.05.2019
+
+
+
+1B EE   // передача: 2 байт; 19:19:56:572 21.05.2019
+
+
+
+1B EE   // передача: 2 байт; 19:19:59:287 21.05.2019
+// приЄм по таймауту: 5000 мс
+// прин€то с порта: 0 байт
+
+
+
+1B EE   // передача: 2 байт; 19:20:05:872 21.05.2019
+// приЄм по таймауту: 5000 мс
+// прин€то с порта: 0 байт
+OnTapiStatus event
+событие: Call disconnected (Normal Hangup by Remote) 029-190-59-08
+OnTapiStatus event
+событие: Line is idle 029-190-59-08
+OnTapiPortClose event
+
+// ќ программе

@@ -1,0 +1,149 @@
+Чтение графика опроса счетчиков
+
+CA E0 EB FE EC ED FB 20 
+
+
+00 00 09 00 FF 0F 00 F2 C1   // передача: 9 байт; 11:03:27:761 10.06.2023
+// приём по количеству байт: 55 из 55
+// принято с порта: 55 байт
+
+01 00 37 00 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF CD A1   // прием: 55 байт; 11:03:27:843 10.06.2023
+// таймаут: 82 мсек
+
+Чтение графика опроса счетчиков: 25 %
+
+CA E0 EB FE EC ED FB 20 
+
+
+00 00 09 00 FF 0F 01 33 01   // передача: 9 байт; 11:03:27:846 10.06.2023
+// приём по количеству байт: 55 из 55
+// принято с порта: 55 байт
+
+01 00 37 00 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF CD A1   // прием: 55 байт; 11:03:27:928 10.06.2023
+// таймаут: 82 мсек
+
+Чтение графика опроса счетчиков: 50 %
+
+CA E0 EB FE EC ED FB 20 
+
+
+00 00 09 00 FF 0F 02 73 00   // передача: 9 байт; 11:03:27:931 10.06.2023
+// приём по количеству байт: 55 из 55
+// принято с порта: 55 байт
+
+01 00 37 00 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF CD A1   // прием: 55 байт; 11:03:28:013 10.06.2023
+// таймаут: 82 мсек
+
+Чтение графика опроса счетчиков: 75 %
+
+CA E0 EB FE EC ED FB 20 
+
+
+00 00 09 00 FF 0F 03 B2 C0   // передача: 9 байт; 11:03:28:016 10.06.2023
+// приём по количеству байт: 55 из 55
+// принято с порта: 55 байт
+
+01 00 37 00 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF CD A1   // прием: 55 байт; 11:03:28:098 10.06.2023
+// таймаут: 82 мсек
+
+Чтение графика опроса счетчиков: 100 %
+Запись графика опроса счетчиков
+
+CA E0 EB FE EC ED FB 20 
+
+
+00 00 39 00 FF 49 00 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 17 CB   // передача: 57 байт; 11:03:48:150 10.06.2023
+// приём по количеству байт: 9 из 9
+// принято с порта: 9 байт
+
+01 00 09 00 FF 00 00 E7 F1   // прием: 9 байт; 11:03:48:236 10.06.2023
+// таймаут: 86 мсек
+
+Запись графика опроса счетчиков: 25 %
+
+CA E0 EB FE EC ED FB 20 
+
+
+00 00 39 00 FF 49 01 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 00 00 00 00 00 00 00 00 00 00 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 2D C3   // передача: 57 байт; 11:03:48:239 10.06.2023
+// приём по количеству байт: 9 из 9
+// принято с порта: 9 байт
+
+01 00 09 00 FF 00 00 E7 F1   // прием: 9 байт; 11:03:48:324 10.06.2023
+// таймаут: 85 мсек
+
+Запись графика опроса счетчиков: 50 %
+
+CA E0 EB FE EC ED FB 20 
+
+
+00 00 39 00 FF 49 02 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 4C 51   // передача: 57 байт; 11:03:48:326 10.06.2023
+// приём по количеству байт: 9 из 9
+// принято с порта: 9 байт
+
+01 00 09 00 FF 00 00 E7 F1   // прием: 9 байт; 11:03:48:413 10.06.2023
+// таймаут: 87 мсек
+
+Запись графика опроса счетчиков: 75 %
+
+CA E0 EB FE EC ED FB 20 
+
+
+00 00 39 00 FF 49 03 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 60 BC   // передача: 57 байт; 11:03:48:414 10.06.2023
+// приём по количеству байт: 9 из 9
+// принято с порта: 9 байт
+
+01 00 09 00 FF 00 00 E7 F1   // прием: 9 байт; 11:03:48:501 10.06.2023
+// таймаут: 87 мсек
+
+Запись графика опроса счетчиков: 100 %
+Чтение графика опроса счетчиков
+
+CA E0 EB FE EC ED FB 20 
+
+
+00 00 09 00 FF 0F 00 F2 C1   // передача: 9 байт; 11:33:39:433 10.06.2023
+// приём по количеству байт: 55 из 55
+// принято с порта: 55 байт
+
+01 00 37 00 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF CD A1   // прием: 55 байт; 11:33:39:516 10.06.2023
+// таймаут: 83 мсек
+
+Чтение графика опроса счетчиков: 25 %
+
+CA E0 EB FE EC ED FB 20 
+
+
+00 00 09 00 FF 0F 01 33 01   // передача: 9 байт; 11:33:39:518 10.06.2023
+// приём по количеству байт: 55 из 55
+// принято с порта: 55 байт
+
+01 00 37 00 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 00 00 00 00 00 00 00 00 00 00 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF DB 44   // прием: 55 байт; 11:33:39:601 10.06.2023
+// таймаут: 83 мсек
+
+Чтение графика опроса счетчиков: 50 %
+
+CA E0 EB FE EC ED FB 20 
+
+
+00 00 09 00 FF 0F 02 73 00   // передача: 9 байт; 11:33:39:603 10.06.2023
+// приём по количеству байт: 55 из 55
+// принято с порта: 55 байт
+
+01 00 37 00 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF CD A1   // прием: 55 байт; 11:33:39:686 10.06.2023
+// таймаут: 83 мсек
+
+Чтение графика опроса счетчиков: 75 %
+
+CA E0 EB FE EC ED FB 20 
+
+
+00 00 09 00 FF 0F 03 B2 C0   // передача: 9 байт; 11:33:39:688 10.06.2023
+// приём по количеству байт: 55 из 55
+// принято с порта: 55 байт
+
+01 00 37 00 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF CD A1   // прием: 55 байт; 11:33:39:770 10.06.2023
+// таймаут: 82 мсек
+
+Чтение графика опроса счетчиков: 100 %
+
+// О программе

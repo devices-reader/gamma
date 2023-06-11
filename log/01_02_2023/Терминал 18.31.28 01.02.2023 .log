@@ -1,0 +1,12 @@
+OnTapiStatus event
+событие: Dialing... 7128364
+OnTapiStatus event
+событие: Proceeding... 7128364
+OnTapiStatus event
+событие: Call disconnected (Normal Hangup by Remote) 7128364
+OnTapiStatus event
+событие: Line is idle 7128364
+OnTapiFail event
+ошибка: Call disconnected (Normal Hangup by Remote)
+
+// О программе
